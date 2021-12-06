@@ -15,7 +15,7 @@
     "users": []
   },
   "tutorialProject": true,
-  "tutorialId": "DKU_TUTORIAL_BASICS",
+  "tutorialId": "DKU_TUTORIAL_BASICS_101",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -126,7 +126,8 @@
       }
     }
   },
-  "name": "Basics 101 (Tutorial)",
+  "name": "Basics 101 for Administrator",
+  "projectStatus": "Sandbox",
   "imgPattern": 4,
   "showInitials": false,
   "metrics": {
@@ -184,11 +185,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 22,
+    "versionNumber": 23,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638810606401
+    "lastModifiedOn": 1638810608556
   },
   "creationTag": {
     "versionNumber": 0,
