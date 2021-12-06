@@ -59,11 +59,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638811206087
+    "lastModifiedOn": 1638811218234
   },
   "creationTag": {
     "versionNumber": 0,
@@ -88,6 +88,14 @@
     "columns": [
       {
         "name": "age",
+        "type": "string"
+      },
+      {
+        "name": "hospital_distinct",
+        "type": "bigint"
+      },
+      {
+        "name": "insulin_max",
         "type": "string"
       },
       {
